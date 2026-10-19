@@ -1,0 +1,5 @@
+.catalog-table table { width: 100%; border-collapse: collapse; margin-block: var(--spacing-medium, 16px); }
+.catalog-table caption { text-align: start; font-weight: 600; padding-block-end: 8px; }
+.catalog-table th, .catalog-table td { padding: 8px 12px; border-bottom: 1px solid var(--color-neutral-300, #ddd); text-align: start; }
+.catalog-table input { width: 5em; }
+.catalog-table .visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
