@@ -9,35 +9,35 @@
       "commerce-companies-enabled": true,
       "headers": {
         "all": {
-          "Store": "pulse_b2b"
+          "Store": "takara_proof_us"
         },
         "cs": {
           "Magento-Customer-Group": "b6589fc6ab0dc82cf12099d1c2d40ab994e8410c",
-          "Magento-Store-Code": "pulse_b2b_store",
-          "Magento-Store-View-Code": "pulse_b2b",
-          "Magento-Website-Code": "pulse_b2b"
+          "Magento-Store-Code": "takara_proof_store",
+          "Magento-Store-View-Code": "takara_proof_us",
+          "Magento-Website-Code": "takara_proof"
         }
       },
       "analytics": {
         "aep-ims-org-id": "0B96B03459707BE40A495C70@AdobeOrg",
-        "aep-datastream-id": "0e007e03-9cb3-4673-8a36-0a86cff63f1f",
+        "aep-datastream-id": "",
         "base-currency-code": "USD",
         "environment": "Testing",
         "environment-id": "KQRrqQbeeQwBx9zuYJ1rH9",
-        "store-code": "pulse_b2b_store",
+        "store-code": "takara_proof_store",
         "store-id": 4,
-        "store-name": "Pulse B2B Store",
-        "store-url": "https://main--bnts-commerce-starter-b2b--jimvogel-static.aem.page",
-        "store-view-code": "pulse_b2b",
+        "store-name": "Takara Proof Store",
+        "store-url": "https://main--takara-proof--jimvogel-static.aem.page",
+        "store-view-code": "takara_proof_us",
         "store-view-id": 6,
-        "store-view-name": "Pulse B2B",
-        "website-code": "pulse_b2b",
-        "website-id": 4,
-        "website-name": "Pulse B2B"
+        "store-view-name": "Takara Proof US",
+        "website-code": "takara_proof",
+        "website-id": 5,
+        "website-name": "Takara Proof"
       },
       "plugins": {
         "picker": {
-          "rootCategory": "5"
+          "rootCategory": "10"
         }
       }
     }
